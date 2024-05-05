@@ -1,4 +1,4 @@
-package metodos;
+package sintaxe.metodos;
 
 public class SmartTv {
 
