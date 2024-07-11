@@ -8,7 +8,7 @@ Este repositório não apenas fornece o código-fonte em Java para as classes e 
 
 ## 📊 Diagrama UML
 <p align="center">
-  <img src="/" alt="Diagrama de Classes">
+  <img src="iPhone-modelagem.png" alt="Diagrama de Classes">
 </p>
 
 
